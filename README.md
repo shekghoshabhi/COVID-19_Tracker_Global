@@ -1,12 +1,9 @@
-# COVID-19 Tracker Android App 
-Coronavirus (COVID-19) Tracker App Using REST API & Volley Library
+-->COVID-19 Tracker App(Global Stats)
+--Coronavirus (COVID-19) Tracker App Using REST API
 
-# Screenshots 
-<p float="left">
- <img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image1.jpg" width="200" height="400" />
-<img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image2.jpg" width="200" height="400" />
-<img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image3.jpg" width="200" height="400" />
+---Api used  = "https://corona.lmao.ninja/v2/all/"
+---Networking Library used = Volley Library (https://developer.android.com/training/volley)
 
-</p>
+
 
 
